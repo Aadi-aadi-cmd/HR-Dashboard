@@ -9,3 +9,4 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+![Screenshot (87)](https://github.com/user-attachments/assets/352adc82-5b58-468d-aa27-990d45ee7556)
